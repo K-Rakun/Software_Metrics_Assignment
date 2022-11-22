@@ -1,0 +1,2 @@
+C:\Users\casper\python\HelloWorld.java:5:	NoPackage:	All classes, interfaces, enums and annotations must belong to a named package
+C:\Users\casper\python\HelloWorld.java:5:	UseUtilityClass:	All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.

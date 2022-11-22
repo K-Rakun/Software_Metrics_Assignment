@@ -1,0 +1,18 @@
+************* Module ExamBefore
+ExamBefore.py:12:0: C0303: Trailing whitespace (trailing-whitespace)
+ExamBefore.py:13:0: C0303: Trailing whitespace (trailing-whitespace)
+ExamBefore.py:22:0: C0303: Trailing whitespace (trailing-whitespace)
+ExamBefore.py:30:0: C0303: Trailing whitespace (trailing-whitespace)
+ExamBefore.py:32:0: C0303: Trailing whitespace (trailing-whitespace)
+ExamBefore.py:35:0: C0303: Trailing whitespace (trailing-whitespace)
+ExamBefore.py:43:0: C0304: Final newline missing (missing-final-newline)
+ExamBefore.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+ExamBefore.py:1:0: C0103: Module name "ExamBefore" doesn't conform to snake_case naming style (invalid-name)
+ExamBefore.py:10:0: C0115: Missing class docstring (missing-class-docstring)
+ExamBefore.py:24:4: C0116: Missing function or method docstring (missing-function-docstring)
+ExamBefore.py:25:8: W0201: Attribute 'menu' defined outside __init__ (attribute-defined-outside-init)
+ExamBefore.py:5:0: W0611: Unused Keys imported from selenium.webdriver.common.keys (unused-import)
+
+-----------------------------------
+Your code has been rated at 4.58/10
+

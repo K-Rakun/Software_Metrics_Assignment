@@ -1,0 +1,13 @@
+C:\Users\casper\python\HelloWorld.java:5:	NoPackage:	All classes, interfaces, enums and annotations must belong to a named package
+C:\Users\casper\python\HelloWorld.java:5:	UseUtilityClass:	All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+C:\Users\casper\python\HelloWorld.java:106:	UnnecessaryLocalBeforeReturn:	Consider simply returning the value vs storing it in local variable 's'
+C:\Users\casper\python\HelloWorld.java:119:	UnnecessaryLocalBeforeReturn:	Consider simply returning the value vs storing it in local variable 'helloWorld'
+C:\Users\casper\python\HelloWorld.java:126:	UnnecessaryLocalBeforeReturn:	Consider simply returning the value vs storing it in local variable 'string'
+C:\Users\casper\python\HelloWorld.java:136:	UnnecessaryLocalBeforeReturn:	Consider simply returning the value vs storing it in local variable 'code'
+C:\Users\casper\python\HelloWorld.java:141:	UnnecessaryModifier:	Unnecessary modifier 'public' on method 'getHelloWorldString': the method is declared in an interface type
+C:\Users\casper\python\HelloWorld.java:145:	UnnecessaryModifier:	Unnecessary modifier 'public' on method 'getHelloWorld': the method is declared in an interface type
+C:\Users\casper\python\HelloWorld.java:147:	UnnecessaryModifier:	Unnecessary modifier 'public' on method 'getPrintStrategy': the method is declared in an interface type
+C:\Users\casper\python\HelloWorld.java:149:	UnnecessaryModifier:	Unnecessary modifier 'public' on method 'print': the method is declared in an interface type
+C:\Users\casper\python\HelloWorld.java:153:	UnnecessaryModifier:	Unnecessary modifier 'public' on method 'getStatusCode': the method is declared in an interface type
+C:\Users\casper\python\HelloWorld.java:157:	UnnecessaryModifier:	Unnecessary modifier 'public' on method 'setupPrinting': the method is declared in an interface type
+C:\Users\casper\python\HelloWorld.java:159:	UnnecessaryModifier:	Unnecessary modifier 'public' on method 'print': the method is declared in an interface type

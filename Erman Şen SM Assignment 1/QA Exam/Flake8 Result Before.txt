@@ -1,0 +1,12 @@
+ExamBefore.py:5:1: F401 'selenium.webdriver.common.keys.Keys' imported but unused
+ExamBefore.py:12:1: W293 blank line contains whitespace
+ExamBefore.py:13:1: W293 blank line contains whitespace
+ExamBefore.py:14:5: E303 too many blank lines (3)
+ExamBefore.py:22:1: W293 blank line contains whitespace
+ExamBefore.py:24:5: E303 too many blank lines (2)
+ExamBefore.py:25:51: E231 missing whitespace after ','
+ExamBefore.py:30:1: W293 blank line contains whitespace
+ExamBefore.py:32:1: W293 blank line contains whitespace
+ExamBefore.py:34:5: E303 too many blank lines (6)
+ExamBefore.py:35:1: W293 blank line contains whitespace
+ExamBefore.py:43:6: W292 no newline at end of file

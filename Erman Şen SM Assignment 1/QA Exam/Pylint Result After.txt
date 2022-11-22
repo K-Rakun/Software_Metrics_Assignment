@@ -1,0 +1,7 @@
+************* Module Exam
+Exam.py:1:0: C0103: Module name "Exam" doesn't conform to snake_case naming style (invalid-name)
+Exam.py:23:8: W0201: Attribute 'menu' defined outside __init__ (attribute-defined-outside-init)
+
+------------------------------------------------------------------
+Your code has been rated at 9.13/10 (previous run: 9.13/10, +0.00)
+
